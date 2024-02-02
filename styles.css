@@ -1,0 +1,12 @@
+table.c1{
+
+background-color: blue;
+background-image: url(./Images/neom-va9218QJFAk-unsplash.jpg);
+background-size: 1500px 1500px;
+height: 300px;
+width: 500px;
+background-repeat: no-repeat;
+border: red solid 2px;
+background-position: center;
+background-attachment: fixed;
+}

@@ -1,0 +1,183 @@
+
+*{
+    background-color: white;
+
+}
+.container{
+  margin: 0px;
+  padding: 0px;
+width: 610px;
+border: 2px solid black;
+}
+.container0{
+    height: 70px;
+    width: 600px;
+  flex-direction: row;
+   display: flex;
+   margin: 5px;
+   margin-right: 0;
+   flex-wrap: wrap;
+  
+}
+.container1{
+  height: 70px;
+  width: 600px;
+flex-direction: row;
+ display: flex;
+ margin: 5px;
+ margin-right: 0;
+ flex-wrap: wrap;
+ 
+}
+.container2{
+  height: 70px;
+  width: 600px;
+flex-direction: row;
+ display: flex;
+ margin: 5px;
+ margin-right: 0;
+ flex-wrap: wrap;
+ 
+}
+.container3{
+  height: 70px;
+  width: 600px;
+flex-direction: row;
+ display: flex;
+ margin: 5px;
+ margin-right: 0;
+ flex-wrap: wrap;
+
+}
+.item1{
+    background-color: green;
+    height: 60px;
+ 
+    width: 60px;
+    margin: 5px;
+    border:2px solid black;
+    
+}
+
+.item2{
+    background-color: green;
+    height: 60px;
+   flex-grow: 1;
+ 
+    margin: 5px;
+    border:2px solid black;
+    
+}
+
+.item3{
+    background-color: green;
+    height: 60px;
+ 
+    width: 60px;
+    margin: 5px;
+    border:2px solid black;
+    
+}
+.item4{
+  background-color: green;
+  height: 60px;
+flex-grow: 2;
+  width: 60px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item5{
+  background-color: green;
+  height: 60px;
+ flex-shrink: 1;
+  width: 20px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item6{
+  background-color: green;
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item7{
+  background-color: green;
+  height: 60px;
+
+  width: 20px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item8{
+  background-color: green;
+  height: 60px;
+
+  width: 60px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item9{
+  background-color: green;
+  height: 60px;
+flex-grow: 2;
+  width: 60px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item10{
+  background-color: green;
+  height: 60px;
+flex-grow: 0.4;
+  width: 10px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item11{
+  background-color: green;
+  height: 60px;
+
+  width: 30px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item12{
+  background-color: green;
+  height: 60px;
+  flex-grow: 0.2;
+  width: 10px;
+ 
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item13{
+  background-color: green;
+  height: 60px;
+
+  width: 30px;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+.item14{
+  background-color: green;
+  height: 60px;
+
+  flex-grow: 0.4;
+  width: 10px;
+ ;
+  margin: 5px;
+  border:2px solid black;
+  
+}
+
+

@@ -1,0 +1,108 @@
+.container{
+    width: 500px;
+    height:660px;
+    border:5px solid black;
+   border-bottom: 30px solid black;
+   border-radius: 10px;
+}
+
+.App{
+   justify-content: center;
+  align-items: center;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    height:70px;
+    
+    border-style: inset;
+   border:0.2px solid grey;
+   
+    box-shadow: 0 5px 0 0 rgb(192, 170, 170);
+
+}
+.back{
+     
+    display: flex;
+    justify-content: center;
+    order:0;
+    background-color: grey;
+    opacity: 0.2;
+    border: 0px;
+    color:rgb(249, 248, 248,1);
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+  height: 30px;
+  width:80px;
+  
+  flex-basis: 70px;
+}
+.layout{
+    
+   
+    order:1;
+    text-align: center;
+    flex-basis: 100px;
+    flex-grow: 1;
+   
+    font-size: 20px;
+    
+    
+}
+.settings{
+     display: flex;
+    
+    order:2;
+    flex-basis: 20px;
+    background-color: grey;
+    opacity: 0.1;
+    border: 0px;
+    color:rgb(249, 248, 248,1);
+    padding: 10px;
+  margin:30px;
+  height: 30px;
+ 
+}
+
+.main{
+    margin:10px;
+}
+.image{
+    float:left;
+    height:150px;
+    margin-right: 10px;
+}
+.below{
+    border-top:  0.2px solid grey;
+    margin:0px;
+    display: flex;
+    width: 100%;
+    background-color: yellow;
+    
+}
+.home{
+    display:inline-block;
+   text-align: center;
+    width:125px;
+    height:70px;
+    border-right: 0.2px solid grey;
+   
+}
+.Noti{
+    text-align: center;
+    display: inline-block;
+    border-right: 0.2px solid grey;
+    width:125px;
+}
+.Msg{
+    text-align: center;
+    display:  inline-block;
+    border-right: 0.2px solid grey;
+    width:125px;
+}
+ .Me{
+    text-align: center;
+    display:  inline-block;
+    border-right:0.2px solid grey;
+    width:125px;
+    }

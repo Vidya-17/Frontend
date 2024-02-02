@@ -1,0 +1,198 @@
+@media(max-width:500px){
+
+.container {
+	display: flex;
+	flex-direction: column;
+    text-align: center;
+    height: 800px;
+   
+}
+
+.Header{
+    color: antiquewhite;
+    background-color: black;
+    height:40px;
+}
+.Menu{
+    background-color: rgb(235, 20, 20); 
+    height:40px;
+}
+
+.Hero {
+    background-color: rgb(12, 138, 229);
+	height:70px;
+
+}
+.Main{
+    color: antiquewhite;
+    background-color: rgb(21, 3, 88);
+    height:70px;
+}
+.Banner{
+    background-color: rgb(235, 247, 18);
+    height:50px;
+}
+.Extra{
+    background-color: rgb(13, 207, 55);
+    height:50px;
+}
+.Image{
+    background-color: rgb(197, 244, 194);
+    height:50px;
+}
+}
+
+@media(min-width:550px) and (max-width:850px){
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            height: 800px;
+           
+        }
+        
+        .Header{
+            color: antiquewhite;
+            background-color: black;
+            height:40px;
+            order: 0;
+        }
+        .Menu{
+            background-color: rgb(235, 20, 20); 
+            height:100px;
+            order: 2;
+            width: 20%;
+            flex-grow: 5;
+        }
+        
+        .Hero {
+            background-color: rgb(12, 138, 229);
+            height:70px;
+            order: 1;
+            flex-grow: 1;
+        }
+        .Main{
+            color: antiquewhite;
+            background-color: rgb(21, 3, 88);
+            height:70px;
+            flex-grow: 2;
+            order: 3;
+            width: 80%;
+            margin-left: auto;
+            position: relative;
+            top:-281px;
+        }
+        .Banner{
+            background-color: rgb(235, 247, 18);
+            height:50px;
+            order: 4;
+            margin-left: auto;
+            width: 80%;
+            position: relative;
+            top:-304px;
+            flex-grow: 0.8;
+        }
+        .Extra{
+            background-color: rgb(13, 207, 55);
+            height:65px;
+            order: 5;
+            margin-left: auto;
+            width: 60%;
+            position: relative;
+            top:-304px;
+            right:162px;
+            flex-grow: 0.3;
+        }
+        .Image{
+            background-color: rgb(167, 220, 238);
+            height:65px;
+            order: 6;
+            margin-left: auto;
+            width: 20%;
+            position: relative;
+            top:-380px;
+         
+            flex-grow: 0.3;
+        }
+    }
+        
+
+@media(min-width:900px) and (max-width:1400px){
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        height: 800px;
+        width: 100%;
+       
+    }
+    
+    .Header{
+        color: antiquewhite;
+        background-color: black;
+        height:40px;
+        order:0;
+       width: 25%;
+    }
+    .Menu{
+        background-color: rgb(235, 20, 20); 
+        height:40px;
+        order:1;
+        width: 75%;
+        margin-left: auto;
+        position: relative;
+    top:-40px;
+    }
+    
+    .Hero {
+        background-color: rgb(12, 138, 229);
+        height:70px;
+        order:2;
+        flex-grow: 1;
+        position: relative;
+        top:-45px;
+    
+    }
+    .Main{
+        color: antiquewhite;
+        background-color: rgb(21, 3, 88);
+        height:70px;
+        order:3;
+        width:60%;
+        flex-grow: 0.8;
+        position: relative;
+        top:-45px;
+        
+    }
+    .Banner{
+        background-color: rgb(235, 247, 18);
+        height:50px;
+        order:6;
+        position: relative;
+        bottom:290px;
+    }
+    .Extra{
+        background-color: rgb(13, 207, 55);
+        height:60px;
+        order:5;
+        margin-left: auto;
+        position: relative;
+        top:-287px;
+        width: 20%;
+        flex-grow: 0.4;
+    }
+    .Image{
+        background-color: rgb(197, 244, 194);
+        height:50px;
+        order:4;
+        margin-left: auto;
+        width: 20%;
+        flex-grow: 0.4;
+        position: relative;
+        top:-245px;
+        
+    }
+    }
+

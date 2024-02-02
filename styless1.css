@@ -1,0 +1,81 @@
+.card1{
+    height:350px;
+    width:200px;
+    border:1px solid black;
+    display:inline-block;
+    box-shadow: 0px 10px 10px 0px;
+    margin:10px;
+    border-radius: 10px;
+    
+  }
+  .flower{
+    height:80px;
+    width:180px;
+    border-radius: 10px 10px 0px 0px;
+    
+  }
+  .image{
+    height:70px;
+    width:160px;
+    padding:10px;
+    
+    
+  }
+  .heading{
+    margin:10px;
+    font-family: sans-serif;
+  
+  }
+  .rating{
+     margin:10px;
+     font-family: sans-serif;
+  
+  }
+  .price{
+     margin:10px;
+     font-family: sans-serif;
+    
+  }
+  .stricking{
+    text-decoration-line:line-through;
+     display:inline-block;
+  }
+  .dollar{
+    display:inline-block;
+  }
+  .decor{
+    color:grey;
+    opacity: 0.2;
+  }
+  .cart{
+    background-color:#DF5353;
+    color:white;
+    position:relative;
+    left:5px;
+    border-radius: 10px;
+    padding: 5px;
+
+
+   
+  }
+  .card2{
+    height:350px;
+    width:200px;
+    border:1px solid black;
+    display:inline-block;
+    box-shadow: 0px 10px 10px 0px;
+    margin:10px;
+    border-radius: 10px;
+  
+  }
+  .card3{
+    height:350px;
+    width:200px;
+    border:1px solid black;
+    display:inline-block;
+    box-shadow: 0px 10px 10px 0px;
+    margin:10px;
+    border-radius: 10px;
+  
+  }
+  

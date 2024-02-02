@@ -1,0 +1,19 @@
+div{
+    height:100px;
+    width:80px;
+    border:2px solid  purple;
+    background-color: aqua;
+    animation-name: box;
+    animation-duration: 5s;
+    animation-iteration-count: 3;
+    animation-delay: 3s;
+}
+
+@keyframes box {
+    25%{
+        transform:translate(100px,200px);
+        background-color: blanchedalmond;
+    }
+    
+    
+}

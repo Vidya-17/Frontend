@@ -1,0 +1,1009 @@
+@media(max-width:500px){
+    .first{
+        overflow: hidden;
+    
+    }
+    .c1{
+        background-color: rgb(43, 42, 42);
+        height: 40px;
+        
+        border-bottom:6px solid rgb(155, 245, 106) ;
+    }
+    .simple{
+        color: white;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 0px;
+        margin-left: -1px;
+    }
+    
+    .pip{
+      
+        height: 100x;
+    }
+    
+    .tag{
+    margin: 0px;
+    color: rgb(194, 189, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30px;
+    }
+    .cs{
+    margin:0px;
+    margin-left: 35px;
+    }
+    .final{
+       
+        height: 305px;
+    }
+    button{
+        display: flex;
+        float: right;
+        align-self: center;
+        height: 15px;
+        
+        font-style:sans-serif;
+        /* margin-right: 35px; */
+       background-color: rgb(38, 32, 32);
+       position: relative;
+       top:-25px;
+       right:5px;
+       margin: 0;
+      
+       color: white;
+       width: 30px;
+       
+    }
+    .g1{
+        font-size: 8px;
+    }
+    .cc1{
+        font-size: 8px;
+    }
+    .s1{
+        font-size: 8px;
+    }
+    .contact{
+        border-radius: 10px 0 0 10px;
+        font-size: 8px;
+    }
+    .home{
+        border-radius: 0px 10px 10px 0px;
+        font-size: 8px;
+    }
+    h4{
+    font-size: medium;
+    }
+    button:hover{
+    color: aquamarine;
+    }
+    
+    .img1{
+         padding: 10px; 
+        margin-left:7px;
+        
+       
+    }
+    .image1{
+        
+        width: 200px;
+        height: 120px;
+        padding: 0px;
+        margin: 0;
+        border: 5px solid rgb(225, 210, 210);
+    }
+    
+    
+    .c2{
+        float: right;
+        position: relative;
+        top:-150px;
+        right: -60px;
+        /* color: white; */
+    
+    }
+    .classc1{
+    
+        background-color: rgb(117, 111, 111);
+        
+    }
+    .l1{
+        font-weight: bold;
+         color: white; 
+         font-size: 12px;
+         font-style: sans-serif;
+    
+    }
+    .dummy{
+        color: rgb(239, 229, 229);
+        font-size: 9px;
+    }
+    
+    .read{
+        position: relative;
+        right:175px;
+        background-color: rgb(103, 134, 57);
+        width: 100px;
+        text-align: justify;
+        color: black;
+        font-weight: bold;
+        border-radius: 10px;
+    
+    }
+    .website{
+        margin-top: 20px;
+    }
+    .Card{
+        float: right;
+        position: relative;
+        bottom: 270px;
+    }
+    .Website{
+        width: 100%;
+        padding: 0 0 0 10px; 
+        height:400px;
+        font-size: medium;
+       
+    }
+    /* We should use height along with aligggn items property */
+    
+    hr{
+        background-color: rgb(68, 239, 68);
+    }
+    
+    .welcome{
+        color: rgb(5, 2, 2);
+        width: 100%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    .dark{
+        color:black;
+        font-size: small;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .second{
+        color: rgb(104, 91, 91);
+        
+       
+    }
+    .pre{
+        color: rgb(104, 91, 91);
+        position: relative;
+        left:20px;
+    }
+    .last{
+        color: rgb(104, 91, 91);
+        border-left: 10px solid rgb(155, 245, 106);
+        padding-left: 10px;
+    }
+    .About{
+        float: right;
+         
+        position: relative;
+      bottom:150px;
+      left: -200px;
+      color: rgb(117, 112, 112);
+      
+      
+        
+    }
+    .Cool{
+        float: right;
+        
+        position: relative;
+      bottom:150px;
+      width: 150px;
+      left: 100px;
+      color: rgb(117, 112, 112);
+      
+       
+    }
+    .Con{
+        float: right;
+       
+        position: relative;
+      bottom:-3px;
+      width: 150px;
+      left: 210px;
+      color: rgb(117, 112, 112);
+      
+      
+        
+    }
+    .Partners{
+        float: right;
+      
+        position: relative;
+      bottom:150px;
+      left: -220px;
+      width: 150px;
+      color: rgb(117, 112, 112);
+      
+      
+    }
+    .Services{
+      position: relative;
+      bottom:-18px;
+      left:10px;
+    
+      width: 150px;
+      height: 150px;
+      color: rgb(117, 112, 112);
+       
+    }
+    .mycard{
+        width:450px;
+        height: 150px;
+        padding-left: 15px;
+        position: relative;
+        right: 5px;
+        top:90px;
+        padding-top: 40px;
+       
+      
+        
+    }
+    .card1 {
+        background-color: rgb(234, 230, 230);
+        height: 130px;
+        
+        
+    }
+    .card2{
+        background-color: rgb(155, 149, 149);
+        height: 130px;
+      
+    }
+    .card3{
+        background-color: rgb(234, 230, 230);
+        height: 130px;
+        
+    }
+    .News{
+    height: 35px;
+    background-color: rgb(134, 132, 132);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    .image{
+        height: 70px;
+        width: 180px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        display: inline-block;
+        border: 5px solid white;
+    }
+    .flower{
+        height: 70px;
+        width: 180px;
+    }
+    .desc{
+        float: right;
+        position: relative;
+       right: 70px;
+       top:10px;
+    }
+    .oct{
+    font-size: 10px;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(189, 185, 185);
+    }
+    .dress{
+        font-size: 10px;
+        margin: 0;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .description{
+        margin: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        color: rgb(100, 95, 95);
+    }
+    .final{ 
+        position: relative;
+        bottom: -40px;
+        height: 400px;
+        background-color: black;
+        border-top:6px solid rgb(155, 245, 106) ;
+    }
+    .par{
+    color: white;
+    font-weight: bold;
+    }
+    .tat{
+        color: white;
+        font-weight: bold;
+    }
+    .col{
+        color: white;
+        font-weight: bold;
+    }
+    .abt{
+        color: white;
+        font-weight: bold;
+    }
+    .ser{
+        color: white;
+        font-weight: bold;
+    }
+    .right{
+        color: rgb(117, 112, 112);
+        padding-left: 15px;
+        margin-top: 20px;
+       position: relative;
+        bottom: -25px;
+        font-size:xx-small;
+        width: 90%;
+    }
+    
+}
+
+@media(min-width:950px) and (max-width:1400px){
+.c1{
+    background-color: rgb(43, 42, 42);
+    height: 40px;
+    
+    border-bottom:6px solid rgb(155, 245, 106) ;
+}
+.simple{
+    color: white;
+    font-weight: bold;
+    font-style:sans-serif;
+    margin: 0px;
+    margin-left: 80px;
+}
+.pip{
+  
+    height: 100x;
+}
+
+.tag{
+margin: 0px;
+color: rgb(194, 189, 189);
+font-style:sans-serif;
+margin-left: 110px;
+}
+.cs{
+margin:0px;
+margin-left: 35px;
+}
+.final{
+   
+    height: 305px;
+}
+button{
+    display: flex;
+    float: right;
+    align-self: center;
+    height: 25px;
+    
+    font-style:sans-serif;
+    /* margin-right: 35px; */
+   background-color: rgb(38, 32, 32);
+   position: relative;
+   top:-25px;
+   right:30px;
+   margin: 0;
+   width: 10px;
+   color: white;
+   width: 80px;
+   
+}
+.contact{
+    border-radius: 10px 0 0 10px;
+}
+.home{
+    border-radius: 0px 10px 10px 0px;
+}
+h4{
+font-size: medium;
+}
+button:hover{
+color: aquamarine;
+}
+
+.img1{
+     padding: 20px; 
+    margin-left: 10px;
+    
+   
+}
+.image1{
+    
+    width: 400px;
+    height: 170px;
+    padding: 0px;
+    margin: 0;
+    border: 5px solid rgb(225, 210, 210);
+}
+
+
+.c2{
+    float: right;
+    position: relative;
+    top:-225px;
+    left:-300px;
+    /* color: white; */
+
+}
+.classc1{
+
+    background-color: rgb(117, 111, 111);
+    
+}
+.l1{
+    font-weight: bold;
+     color: white; 
+     font-size: 25px;
+     font-style: sans-serif;
+
+}
+.dummy{
+    color: rgb(239, 229, 229);
+}
+
+.read{
+    position: relative;
+    right:386px;
+    background-color: rgb(103, 134, 57);
+    width: 100px;
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+.website{
+    margin-top: 20px;
+}
+.Card{
+    float: right;
+    position: relative;
+    bottom: 270px;
+}
+.Website{
+    width: 43%;
+    padding: 0 0 0 70px;
+    height:450px
+   
+}
+/* We should use height along with aligggn items property */
+
+hr{
+    background-color: rgb(68, 239, 68);
+}
+
+.welcome{
+    color: rgb(5, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.dark{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.second{
+    color: rgb(104, 91, 91);
+}
+.pre{
+    color: rgb(104, 91, 91);
+    position: relative;
+    left:20px;
+}
+.last{
+    color: rgb(104, 91, 91);
+    border-left: 10px solid rgb(155, 245, 106);
+    padding-left: 10px;
+}
+.About{
+   
+     float: right;
+    position: relative;
+  bottom:150px;
+  left: -850px; 
+  color: rgb(117, 112, 112);
+  
+  
+    
+}
+.Cool{
+     float: right;
+    
+    position: relative;
+  bottom:150px;
+  width: 150px;
+  left: -500px; 
+  color: rgb(117, 112, 112);
+  
+   
+}
+.Con{
+    float: right;
+   
+    position: relative;
+  bottom:150px;
+  width: 150px;
+  left: -170px; 
+  color: rgb(117, 112, 112);
+  
+  
+    
+}
+.Partners{
+     float: right;
+  
+    position: relative;
+  bottom:150px;
+  left: 150px;
+  width: 150px; 
+  color: rgb(117, 112, 112);
+  
+  
+}
+.Services{
+   padding-left: 80px;
+  /* position: relative;
+  bottom:-18px;
+  left:100px;
+
+  width: 150px;
+  height: 150px; */
+  color: rgb(117, 112, 112);
+   
+}
+.mycard{
+    width:500px;
+    height: 510px;
+    float: right;
+    position: relative;
+    right: 10px;
+    top:-450px;
+   
+  
+    
+}
+.card1 {
+    background-color: rgb(234, 230, 230);
+    height: 170px;
+    
+    
+}
+.card2{
+    background-color: rgb(155, 149, 149);
+    height: 170px;
+  
+}
+.card3{
+    background-color: rgb(234, 230, 230);
+    height: 170px;
+    
+}
+.News{
+height: 35px;
+background-color: rgb(134, 132, 132);
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.image{
+    height: 70px;
+    width: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    border: 5px solid white;
+}
+.flower{
+    height: 70px;
+    width: 90px;
+}
+.desc{
+    float: right;
+    position: relative;
+   right: 150px;
+   top:1px;
+}
+h4{
+    
+
+margin: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(189, 185, 185);
+}
+.dress{
+    margin: 0;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.description{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: rgb(100, 95, 95);
+}
+.final{
+    height: 200px;
+    position: relative;
+    bottom: -130px;
+    left:-700px;
+    width: 1200px;
+    background-color: black;
+    border-top:6px solid rgb(155, 245, 106) ;
+}
+.par{
+color: white;
+font-weight: bold;
+}
+.tat{
+    color: white;
+    font-weight: bold;
+}
+.col{
+    color: white;
+    font-weight: bold;
+}
+.abt{
+    color: white;
+    font-weight: bold;
+}
+.ser{
+    color: white;
+    font-weight: bold;
+}
+.right{
+    color: rgb(117, 112, 112);
+    padding-left: 100px;
+    margin-top: 10px;
+    font-size: small;
+}
+}
+@media(min-width:550px) and (max-width:900px){
+.c1{
+        background-color: rgb(43, 42, 42);
+        height: 40px;
+        
+        border-bottom:6px solid rgb(155, 245, 106) ;
+    }
+    .simple{
+        color: white;
+        font-weight: bold;
+        font-style:sans-serif;
+        margin: 0px;
+        margin-left: 10px;
+    }
+    
+    .pip{
+      
+        height: 100x;
+    }
+    
+    .tag{
+    margin: 0px;
+    color: rgb(194, 189, 189);
+    font-style:sans-serif;
+    margin-left: 60px;
+    }
+    .cs{
+    margin:0px;
+    margin-left: 35px;
+    }
+    .final{
+       
+        height: 305px;
+    }
+    button{
+        display: flex;
+        float: right;
+        align-self: center;
+        height: 15px;
+        
+        font-style:sans-serif;
+        /* margin-right: 35px; */
+       background-color: rgb(38, 32, 32);
+       position: relative;
+       top:-25px;
+       right:8px;
+       margin: 0;
+       color: white;
+       width: 90px;
+       
+    }
+    .g1{
+        font-size: 8px;
+    }
+    .cc1{
+        font-size: 8px;
+    }
+    .s1{
+        font-size: 8px;
+    }
+    .contact{
+        border-radius: 10px 0 0 10px;
+        font-size: 8px;
+    }
+    .home{
+        border-radius: 0px 10px 10px 0px;
+        font-size: 8px;
+    }
+    h4{
+    font-size: medium;
+    }
+    button:hover{
+    color: aquamarine;
+    }
+    
+    .img1{
+         padding: 10px; 
+        margin-left:70px;
+        
+       
+    }
+    .image1{
+        
+        width: 200px;
+        height: 150px;
+        padding: 0px;
+        margin: 0;
+        border: 5px solid rgb(225, 210, 210);
+    }
+    
+    
+    .c2{
+        float: right;
+        position: relative;
+        top:-160px;
+        right: 130px;
+        /* color: white; */
+    
+    }
+    .classc1{
+    
+        background-color: rgb(117, 111, 111);
+        
+    }
+    .l1{
+        font-weight: bold;
+         color: white; 
+         font-size: 20px;
+         font-style: sans-serif;
+    
+    }
+    .dummy{
+        color: rgb(239, 229, 229);
+        font-size: 12px;
+    }
+    
+    .read{
+        position: relative;
+        right:260px;
+        background-color: rgb(103, 134, 57);
+        width: 100px;
+        text-align: justify;
+        color: black;
+        font-weight: bold;
+        border-radius: 10px;
+    
+    }
+    .website{
+        margin-top: 20px;
+    }
+    .Card{
+        float: right;
+        position: relative;
+        bottom: 270px;
+    }
+    .Website{
+        width: 43%;
+        padding: 0 0 0 10px; 
+        height:400px;
+        font-size: medium;
+       
+    }
+    /* We should use height along with aligggn items property */
+    
+    hr{
+        background-color: rgb(68, 239, 68);
+    }
+    
+    .welcome{
+        color: rgb(5, 2, 2);
+        width: 100%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    .dark{
+        color:black;
+        font-size: small;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .second{
+        color: rgb(104, 91, 91);
+        
+       
+    }
+    .pre{
+        color: rgb(104, 91, 91);
+        position: relative;
+        left:20px;
+    }
+    .last{
+        color: rgb(104, 91, 91);
+        border-left: 10px solid rgb(155, 245, 106);
+        padding-left: 10px;
+    }
+    .About{
+        float: right;
+         
+        position: relative;
+      bottom:150px;
+      left: -520px;
+      color: rgb(117, 112, 112);
+      
+      
+        
+    }
+    .Cool{
+        float: right;
+        
+        position: relative;
+      bottom:150px;
+      width: 150px;
+      left: -200px;
+      color: rgb(117, 112, 112);
+      
+       
+    }
+    .Con{
+        float: right;
+       
+        position: relative;
+      bottom:150px;
+      width: 150px;
+      left: 100px;
+      color: rgb(117, 112, 112);
+      
+      
+        
+    }
+    .Partners{
+        float: right;
+      
+        position: relative;
+      bottom:150px;
+      left: 380px;
+      width: 150px;
+      color: rgb(117, 112, 112);
+      
+      
+    }
+    .Services{
+      position: relative;
+      bottom:-18px;
+      left:10px;
+    
+      width: 150px;
+      height: 150px;
+      color: rgb(117, 112, 112);
+       
+    }
+    .mycard{
+       
+        width:400px;
+        height: 400px;
+        float: right;
+        padding-left: 15px;
+        position: relative;
+        right: 5px;
+        top:-390px;
+       
+      
+        
+    }
+    .card1 {
+        background-color: rgb(234, 230, 230);
+        height: 165px;
+        
+        
+    }
+    .card2{
+        background-color: rgb(155, 149, 149);
+        height: 165px;
+      
+    }
+    .card3{
+        background-color: rgb(234, 230, 230);
+        height: 165px;
+        
+    }
+    .News{
+    height: 35px;
+    background-color: rgb(134, 132, 132);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    .image{
+        height: 100px;
+        width: 150px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        display: inline-block;
+        border: 5px solid white;
+    }
+    .flower{
+        height: 100px;
+        width: 150px;
+    }
+    .desc{
+        float: right;
+        position: relative;
+       right: 70px;
+       top:10px;
+    }
+    .oct{
+    font-size: 10px;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(189, 185, 185);
+    }
+    .dress{
+        font-size: 10px;
+        margin: 0;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .description{
+        margin: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        color: rgb(100, 95, 95);
+    }
+    .final{ 
+        width:800px;
+        position: relative;
+        bottom: -100px;
+        left: -410px;
+        height: 230px;
+        background-color: black;
+        border-top:6px solid rgb(155, 245, 106) ;
+    }
+    .par{
+    color: white;
+    font-weight: bold;
+    }
+    .tat{
+        color: white;
+        font-weight: bold;
+    }
+    .col{
+        color: white;
+        font-weight: bold;
+    }
+    .abt{
+        color: white;
+        font-weight: bold;
+    }
+    .ser{
+        color: white;
+        font-weight: bold;
+    }
+    .right{
+        color: rgb(117, 112, 112);
+        padding-left: 15px;
+        margin-top: 20px;
+       position: relative;
+        bottom: -25px;
+        font-size:xx-small;
+        width: 90%;
+    }
+}

@@ -1,0 +1,364 @@
+@media(max-width:400px){
+
+    .container {
+        display: flex;
+       background-color: aliceblue;
+       border: 2px whitesmoke solid;
+       width: 300px;
+       height:350px;
+       margin: 10px;
+       padding: 10px;
+      justify-content: center;
+       flex-wrap: wrap;
+       border-radius: 10px;
+   
+      align-content: stretch;
+      align-content: flex-start;
+    }
+    
+    .high{
+        border:1px solid red;
+        background-color: red;
+        color: white;
+    }
+    .ptag{
+        display: inline-block;
+    }
+    .visit{
+        display: inline-block;
+        
+    }
+    
+    .topic{
+        display: flex inline-block;
+        flex-grow: 2;
+        margin:0px;
+        height: 40px;
+        justify-content: center;
+        
+      
+    }
+    .para{
+        height:70px;
+        width:100%;
+        background-color:blueviolet;
+        justify-content: center;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        
+    
+    }
+    
+    .c1{
+        height:30px;
+        
+        width: 200px;
+        background-color:white;
+        float:left;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+        
+       
+    }
+    .c2{
+        height:30px;
+        width:200px;
+        background-color:white;
+        float:right;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    .c3{
+        height:30px;
+        width:200px;
+        background-color:white;
+        float:left;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    
+    .c4{
+        height:30px;
+        width:200px;
+        background-color:white;
+        float:right;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    .meter{
+      
+        width: 600px;
+        height: 0px;
+        
+    }
+    .meter2{
+        
+        width: 600px;
+    }
+    
+    .button{
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+        
+        align-content: stretch;
+        align-content: flex-start;
+    }
+
+}
+
+
+
+@media(min-width:410px) and (max-width:900px){
+
+
+.container {
+	display: flex;
+   background-color: aliceblue;
+   border: 2px whitesmoke solid;
+   width: 93%;
+   height: 250px;
+   margin: 10px;
+   padding: 10px;
+  justify-content: center;
+   flex-wrap: wrap;
+   border-radius: 10px;
+
+  align-content: stretch;
+  align-content: flex-start;
+}
+
+.high{
+    border:1px solid red;
+    background-color: red;
+    color: white;
+}
+.ptag{
+    display: inline-block;
+}
+.visit{
+    display: inline-block;
+    
+}
+
+.topic{
+    display: flex inline-block;
+    flex-grow: 2;
+    margin:0px;
+    height: 40px;
+    justify-content: center;
+    
+  
+}
+.para{
+    height:70px;
+    width:100%;
+    background-color:blueviolet;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    
+
+}
+
+.c1{
+    height:30px;
+    width: 300px;
+    background-color:white;
+    float:left;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    
+   
+}
+.c2{
+    height:30px;
+    width: 300px;
+    background-color:white;
+    float:right;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+.c3{
+    height:30px;
+    width: 300px;
+    background-color:white;
+    float:left;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+
+.c4{
+    height:30px;
+    width: 300px;
+    background-color:white;
+    float:right;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+.meter{
+  
+    width: 600px;
+    height: 0px;
+    
+}
+.meter2{
+    
+    width: 600px;
+}
+
+.button{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    
+    align-content: stretch;
+    align-content: flex-start;
+}
+}
+@media(min-width:900px) and (max-width:1500px){
+    container {
+        display: flex;
+       background-color: rgb(28, 123, 206);
+       border: 2px whitesmoke solid;
+       width: 93%;
+       height: 250px;
+       margin: 10px;
+       padding: 10px;
+      justify-content: center;
+       flex-wrap: wrap;
+       border-radius: 10px;
+    
+      align-content: stretch;
+      align-content: flex-start;
+    }
+    
+    .high{
+        border:1px solid red;
+        background-color: red;
+        color: white;
+        
+    }
+    .ptag{
+        display: flex inline-block;
+       
+        justify-content: center;
+        text-align: center;
+       
+    }
+    .visit{
+        display: inline-block;
+        
+        
+    }
+    
+    .topic{
+        display: flex inline-block;
+        flex-grow: 2;
+        margin:0px;
+        height: 40px;
+        justify-content: center;
+        text-align: center;
+        
+      
+    }
+    .para{
+        height:70px;
+        width:100%;
+        background-color:blueviolet;
+        justify-content: center;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        
+    
+    }
+    
+    .c1{
+        height:30px;
+        
+        width:22%;
+        background-color:white;
+        float:left;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+        
+       
+    }
+    .c2{
+        height:30px;
+        width:22%;
+        background-color:white;
+        float:right;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    .c3{
+        height:30px;
+        width:22%;
+        background-color:white;
+        float:left;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    
+    .c4{
+        height:30px;
+        width:22%;
+        background-color:white;
+        float:right;
+        margin:10px;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: aliceblue;
+    }
+    .meter{
+      
+        width: 600px;
+        height: 0px;
+        
+    }
+    .meter2{
+        
+        width: 600px;
+    }
+    
+    .button{
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+        
+        align-content: stretch;
+        align-content: flex-start;
+    }
+}
+
+/* An initial setting of a flex container is align-content: stretch.
+
+This means that multiple lines of flex items will be distributed evenly along the cross axis.
+
+To override this behavior, apply align-content: flex-start to the container. */
